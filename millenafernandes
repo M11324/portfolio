@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio - Millena Fernandes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Millena Fernandes da Silva</h1>
+        <p>Profissional de Ciências Contábeis com experiência em gestão administrativa, controle financeiro e análise financeira.</p>
+        
+        <h2>Experiência Profissional</h2>
+        <ul>
+            <li>Assistente Administrativo (2018 - Presente)</li>
+            <li>Atendente em Instituição Financeira (2011 - 2012)</li>
+        </ul>
+        
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Gestão Financeira e Análise</li>
+            <li>Atendimento ao Cliente</li>
+            <li>Pacote Office Avançado</li>
+            <li>Criação de Relatórios e Dashboards</li>
+        </ul>
+        
+        <div class="contact">
+            <h2>Contato</h2>
+            <p>Email: <a href="mailto:fernandesmillenasilva@gmail.com">fernandesmillenasilva@gmail.com</a></p>
+            <p>Telefone: (88) 99360-1652</p>
+        </div>
+    </div>
+</body>
+</html>
